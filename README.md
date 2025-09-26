@@ -11,6 +11,6 @@ Cramos nuestro docker-compose que va a levantar nuestro servicio de rabbitMQ y l
 ![creacion](./imagenes/4.png)
 
 Posteriormente jecutamos primeramente nuestro send.py y luego receive,py y obtenermos nuestro resutado en consola
-![creacion](./imagenes/5.png)
+![creacion](./imagenes/6.png)
 
 
